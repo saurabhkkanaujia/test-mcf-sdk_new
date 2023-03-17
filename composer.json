@@ -1,5 +1,5 @@
 {
-    "name": "ced/mcf-sdk",
+    "name": "ced_test/mcf-sdk",
     "description": "The Selling Partner APIs to manage Reports, Catalog, Pricing, inventory, and fulfillment outbound orders.",
     "keywords": [
         "php",
